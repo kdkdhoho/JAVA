@@ -308,4 +308,4 @@ byte(1byte) - short(2byte) - int(4byte) - long(8byte)
 
 부호없는 정수는 *2진수로 '0000'이 될 때 오버플로우가 발생*하고, 부호있는 정수는 *부호비트가 0에서 1이 될 때 발생*한다.
 
-# 4.4 실수형 - float, double
+## 4.4 실수형 - float, double
